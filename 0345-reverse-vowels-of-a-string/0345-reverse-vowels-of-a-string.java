@@ -1,28 +1,28 @@
+import java.util.Stack;
 class Solution {
     public String reverseVowels(String s) {
-        char[] array = s.toCharArray();
+        char[] chars = s.toCharArray();
+        Stack<Character> vowels = new Stack<>();
 
-        // Step 1: Collect only the vowels in a StringBuilder
-        StringBuilder vowels = new StringBuilder();
-        for (char c : array) {
-            if (isVowel(c)) {
-                vowels.append(c);
+        // Step 1: Collect all vowels in a stack
+        for(char  c:chars){
+            if(isVowel(c)){
+                vowels.push(c);
             }
         }
 
-        // Step 2: Replace vowels in reverse order
-        int j = vowels.length() - 1;
-        for (int i = 0; i < array.length; i++) {
-            if (isVowel(array[i])) {
-                array[i] = vowels.charAt(j--);
+        // Step 2: Replace vowels from stack (reversed order)
+        for(int i = 0; i<chars.length ; i++){
+            if(isVowel(chars[i])){
+                chars[i] = vowels.pop();
             }
         }
+        // return as a string
+        return new String(chars);
+ 
 
-        return new String(array);
-    }
-
-    // Helper method inside the class
-    private boolean isVowel(char c) {
+}
+       public static boolean isVowel(char c){
         return "aeiouAEIOU".indexOf(c) != -1;
-    }
+}
 }
