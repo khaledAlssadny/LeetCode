@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khaledAlssadny/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/khaledAlssadny/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/khaledAlssadny/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/khaledAlssadny/LeetCode/tree/master/0605-can-place-flowers) |
@@ -47,4 +48,20 @@
 | [1801-average-time-of-process-per-machine](https://github.com/khaledAlssadny/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/khaledAlssadny/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/khaledAlssadny/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khaledAlssadny/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khaledAlssadny/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khaledAlssadny/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khaledAlssadny/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
