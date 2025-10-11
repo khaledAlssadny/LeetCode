@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khaledAlssadny/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/khaledAlssadny/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khaledAlssadny/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/khaledAlssadny/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khaledAlssadny/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khaledAlssadny/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
